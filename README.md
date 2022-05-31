@@ -59,6 +59,13 @@ Per a realitzar, aquest petit esborrany de la meva pàgina web, m'he trobat, amb
 un inici, uns objectius, amb dos mapes d'exemple, una base de dades amb els mapes, un petit quiz i un contacte
 ![image](https://user-images.githubusercontent.com/99285135/171220679-8fb6980c-a410-4fee-a71f-68f437ab6d04.png)
 *Observem els objectius, on explicat, com he desenvolupat els mapes estàtics, com serà el meu treball i finalemtn he aportat dos mapes estàtics
+![image](https://user-images.githubusercontent.com/99285135/171221397-95fb5866-0e76-4aea-8fec-ad89e9fd643f.png)
+* En el següent apartat s'observem els mapes de cada estadi de futbol i un vídeo recordant el seu pas a primera divisió, així com uns escuts, que et porten
+ a cadascun de les parts on es parla d'ells.
+ ![image](https://user-images.githubusercontent.com/99285135/171221897-6f2c229c-1895-492e-9fe8-c6801c8f4414.png)
+* Posteriorment, si has estat atent a la informació,et presento un quiz que he creat a partir dels 7 equips tractats en aquesta pàgina web
+![image](https://user-images.githubusercontent.com/99285135/171222210-a1945f8b-1fb6-44d8-b7a9-24e2b0eca588.png)
+*Per finalitzar tenim el formulari, per a registrarte
 
    
     
