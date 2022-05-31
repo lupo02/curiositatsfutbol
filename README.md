@@ -1,6 +1,6 @@
 # curiositatsfutbol
 Ciao ragazzi, sòc el Gabriel, gran aficionat del Napoli, però en aquest cas , desenvoluparé una pàgina web sobre el món del futbol a la lliga espanyola, espero que us animeu i la visiteu!!
-# Curiositats del futbol
+
 # Curiositats del futbol
 
 ## Tema i Motivació
@@ -53,6 +53,12 @@ Per a realitzar, aquest petit esborrany de la meva pàgina web, m'he trobat, amb
     
 * Història dels equips del mapa 5
 
+## Idea final
+![image](https://user-images.githubusercontent.com/99285135/171220094-f01ff16b-f1bb-4602-b1d1-dafa8ba56f57.png)
+*Finalment hem optat per un menú, més senzill, ja que, he tingut forces complicacions i hem afegit un logo creat pròpiament d'internet
+un inici, uns objectius, amb dos mapes d'exemple, una base de dades amb els mapes, un petit quiz i un contacte
+![image](https://user-images.githubusercontent.com/99285135/171220679-8fb6980c-a410-4fee-a71f-68f437ab6d04.png)
+*Observem els objectius, on explicat, com he desenvolupat els mapes estàtics, com serà el meu treball i finalemtn he aportat dos mapes estàtics
 
    
     
